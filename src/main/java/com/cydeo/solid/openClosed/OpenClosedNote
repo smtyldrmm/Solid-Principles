@@ -1,0 +1,10 @@
+
+
+
+The Open/Closed Principle suggests
+that a class should be open for extension
+but closed for modification.
+This means that you can add new functionality
+to a class without altering its existing code.
+By using abstractions and interfaces,
+the system can be easily extended without modifying the existing components.
