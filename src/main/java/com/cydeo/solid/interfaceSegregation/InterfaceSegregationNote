@@ -1,0 +1,9 @@
+
+
+
+The Interface Segregation Principle suggests that
+a class should not be forced to implement interfaces
+it does not use. Instead of creating large,
+monolithic interfaces, it's better to have smaller,
+specific interfaces. This prevents classes from being burdened with
+methods they don't need, promoting a more modular and maintainable codebase.
